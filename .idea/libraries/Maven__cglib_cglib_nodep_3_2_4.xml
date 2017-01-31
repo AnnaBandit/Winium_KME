@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Maven: cglib:cglib-nodep:3.2.4">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/cglib/cglib-nodep/3.2.4/cglib-nodep-3.2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sqljdbc4-3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/cglib/cglib-nodep/3.2.4/cglib-nodep-3.2.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/cglib/cglib-nodep/3.2.4/cglib-nodep-3.2.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
